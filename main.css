@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+    width: auto;
+}
+.header_wrapper {
+    background-color: #7195a6;
+    width: auto;
+}
+.cart {
+    height: 40px;
+    width: 40px;
+    padding-top: 25px;
+}
+.header-title {
+    color: white;
+    font-size: 30px;
+    font-family: Roboto;
+    font-weight: normal;
+}
+.header {
+    display: flex;
+    text-align: right;
+    margin-left: 650px;
+}
+.header-item {
+    margin-right: 0px;
+}
+.table-first {
+    border: 1px solid transparent;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+th {
+    background-color: #e7f0f7;
+    color: #636363;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: normal;
+}
+td {
+    font-family: Roboto;
+    padding-left: 10px;
+}
+.blue {
+    background-color: #e7f0f7;
+}
+.small-text {
+    font-size: 10px;
+    line-height: 5px;
+    margin-bottom: 30;
+}
+.blue-text {
+    background-color: #e7f0f7;
+    font-style: italic;
+    font-size: 15px;
+    text-align: center;
+}
+.second-table {
+    border: 1px solid transparent;
+    width: auto;
+    height: auto;
+    padding: 10px;
+}
+.right-answers {
+    background-color: #c3e6cb;
+}
+.wrong-answers {
+    background-color: #f5c6cb;
+}
+.tables-wrapper {
+}
+.result-qua {
+    background-color: #b8daff;
+}
+.university {
+    font-size: 17px;
+}
+footer {
+    background-color: #33475b;
+    height: 500px;
+}
+.footer-title {
+    color: white;
+    font-size: 7px;
+    font-weight: normal;
+    font-family: Roboto;
+    text-align: center;
+    padding-top: 30px;
+}
+.help-title {
+    color: #cbd6cd;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: normal;
+    text-align: center;
+}
+.footer-text {
+    color: white;
+    font-size: 15px;
+    font-weight: normal;
+    font-family: Arial;
+    text-align: center;
+    line-height: 17px;
+}
+.qr {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
