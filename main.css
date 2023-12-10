@@ -20,7 +20,7 @@ body {
 .header {
     display: flex;
     text-align: right;
-    margin-left: 650px;
+    margin-left: auto;
 }
 .header-item {
     margin-right: 0px;
